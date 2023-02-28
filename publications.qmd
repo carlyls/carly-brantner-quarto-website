@@ -3,25 +3,27 @@ title: "Publications"
 editor: visual
 ---
 
-## Work in Progress
+## Heterogeneous Treatment Effect Estimation
 
 -   **Brantner, C. L.,** Chang, T., Nguyen, T. Q., Hong, H., Di Stefano, L., & Stuart, E. A. (2022). Strategies for integrating multiple datasets to examine treatment effect heterogeneity. Under review.
 
--   **Brantner, C. L.,** Nguyen, T. Q., Teng, T., Zhao, C., Hong, H., & Stuart, E. A. Comparing machine learning methods for estimating heterogeneous treatment effects by combining data from multiple randomized controlled trials. In progress.
+-   **Brantner, C. L.,** Nguyen, T. Q., Teng, T., Zhao, C., Hong, H., & Stuart, E. A. Comparing machine learning methods for estimating heterogeneous treatment effects by combining data from multiple randomized controlled trials. In progress.\
+    [**Code**](https://github.com/carlyls/CATE_multiRCT)
 
-## Highlighted Publications
+## COVID-19 Projects
 
-**\*I recently got married and changed my last name, and the below papers/presentations are under my former name (Carly Lupton-Smith).**
+-   **Lupton-Smith, C.,** Badillo-Goicoechea, E., Collins, M., Lessler, J., Grabowski, M. K., & Stuart, E. A. (2022). Consistency between household and county measures of onsite schooling during the COVID-19 pandemic. *Journal of Research on Educational Effectiveness.* <https://doi.org/10.1080/19345747.2022.2131660>\
+    [**Code**](https://github.com/carlyls/covid19_schooldata)
 
--   **Lupton-Smith, C.,** Badillo-Goicoechea, E., Collins, M., Lessler, J., Grabowski, M. K., & Stuart, E. A. (2022). Consistency between household and county measures of onsite schooling during the COVID-19 pandemic. *Journal of Research on Educational Effectiveness.* https://doi.org/10.1080/19345747.2022.2131660
-
--   McLaughlin, J. E., Lyons, K., **Lupton-Smith, C.,** & Fuller, K. (2022). An introduction to text analytics for educators. *Currents in Pharmacy Teaching and Learning.* <https://doi.org/10.1016/j.cptl.2022.09.005>
-
--   **Lupton-Smith, C.,** Badillo-Goicoechea, E., Chang, T. Maniates, H., Riehm, K. E., Schmid, I., & Stuart, E. A. (2022). Factors associated with county-level mental health during the COVID-19 pandemic. *Journal of Community Psychology, 50*(5), 2431-2442*.*
+-   **Lupton-Smith, C.,** Badillo-Goicoechea, E., Chang, T. Maniates, H., Riehm, K. E., Schmid, I., & Stuart, E. A. (2022). Factors associated with county-level mental health during the COVID-19 pandemic. *Journal of Community Psychology, 50*(5), 2431-2442*.* <https://doi.org/10.1002/jcop.22785>
 
 -   Riehm, K. E., Badillo-Goicoechea, E., Wang, F. M., Kim, E., Aldridge, L. R., **Lupton-Smith, C.**, Presskreischer, R., Chang, T., LaRocca, S., Kreuter, F., & Stuart, E. A. (2022). Association of Non-Pharmaceutical Interventions with Anxiety and Depressive Symptoms during the COVID-19 Pandemic: A Multi-National Study of 43 Countries. *International Journal of Public Health, 67,* 1604430. <https://doi.org/10.3389/ijph.2022.1604430>
 
--   Lessler, J., Grabowski, M. K., Grantz, K. H., Badillo-Goicoechea, E., Metcalf, C. J. E., **Lupton-Smith, C.,** Azman, A. S., Stuart, E. A. (2021). Household COVID-19 risk and in-person schooling. *Science, 372*(6546), 1092-1097.
+-   Lessler, J., Grabowski, M. K., Grantz, K. H., Badillo-Goicoechea, E., Metcalf, C. J. E., **Lupton-Smith, C.,** Azman, A. S., Stuart, E. A. (2021). Household COVID-19 risk and in-person schooling. *Science, 372*(6546), 1092-1097. <https://doi.org/10.1126/science.abh2939>
+
+## Other Applied Projects
+
+-   McLaughlin, J. E., Lyons, K., **Lupton-Smith, C.,** & Fuller, K. (2022). An introduction to text analytics for educators. *Currents in Pharmacy Teaching and Learning.* <https://doi.org/10.1016/j.cptl.2022.09.005>
 
 -   **Lupton-Smith, C.,** Stuart, E., McGinty, B., Dalcin, A., Jerome, G. J., Wang, N. Y., & Daumit, G. (2021). Determining predictors of weight loss in a behavioral intervention: A case study in the use of Lasso regression. *Frontiers in Psychiatry, 12*, 707707. <https://doi.org/10.3389/fpsyt.2021.707707>
 
@@ -30,3 +32,5 @@ editor: visual
 -   Wolcott, M. D., **Lupton-Smith, C**., Cox, W. C., & McLaughlin, J. E. (2019). A 5-minute Situational Judgment Test to assess empathy in first-year student pharmacists*. American Journal of Pharmaceutical Education, 83*(6), Article 6960.
 
 -   McLaughlin, J. E., **Lupton-Smith, C**., & Wolcott, M. D. (2018). Text mining as a method for examining the alignment between educational outcomes and the workforce needs. *Education in the Health Professions, 1*(2), 55-60.
+
+## 

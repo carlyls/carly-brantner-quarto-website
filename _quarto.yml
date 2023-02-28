@@ -10,6 +10,7 @@ website:
       - experience.qmd
       - publications.qmd
       - presentations.qmd
+      - cv.qmd
 
 format:
   html:
