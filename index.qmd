@@ -11,7 +11,7 @@ about:
     - icon: twitter
       href: https://twitter.com/CarlyLBrantner
     - icon: newspaper
-      href: https://orcid.org/0000-0003-1067-3260
+      href: https://scholar.google.com/citations?user=QcQZFXcAAAAJ&hl=en
     - icon: github
       href: https://github.com/carlyls
     - icon: envelope
