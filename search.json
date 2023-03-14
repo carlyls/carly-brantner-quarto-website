@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
-    "title": "Talks",
-    "section": "",
-    "text": "Podcast: School Reopening Analysis. Data Skeptic. May 30, 2022. https://dataskeptic.com/blog/episodes/2022/school-reopening-analysis.\nLupton-Smith, C. January 24, 2022. Family Caregiving Subtypes and Well-Being in the Caregiving Transitions Study: A Latent Class Analysis. Research in Progress presentation for Epidemiology and Biostatistics of Aging Training Group.\nLupton-Smith, C. October 8, 2021. Factors Associated with County-Level Mental Health During the COVID-19 Pandemic. Invited presentation for Hopkins Biostatistics Virtual Prospective Student Event.\nLupton-Smith, C., Badillo Goicoechea, E., Chang, T., & Stuart, E. A. October 7, 2021. Factors Associated with County-Level Mental Health During the COVID-19 Pandemic. Women in Statistics and Data Science Conference."
-  },
-  {
-    "objectID": "presentations.html#posters",
-    "href": "presentations.html#posters",
-    "title": "Talks",
-    "section": "Posters",
-    "text": "Posters\n\nBentley, J., Lupton-Smith, C., & Roth, D. (2021). Family caregiving subtypes in the Caregiving Transitions Study: A latent class analysis. Gerontological Society of America.\nChang, T., Lupton-Smith, C., Badillo Goicoechea, E., & Stuart, E. A. (2021). Examining county-level mental health using Facebook COVID-19 Symptom Survey data. American Psychopathological Association.\nMcLaughlin, J. E., Lupton-Smith, C., Bell, E. L., Hubal, R., Persky, A. (2020). Automated analysis of course evaluation comments: The use of sentiment analysis to characterize classroom teaching. American Association of Colleges of Pharmacy. *Recipient of AACP SAS Best Poster Award"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Carly Lupton Brantner",
-    "section": "",
-    "text": "About Me\nMy name is Carly Lupton Brantner (recently Carly Lupton-Smith), and I am a third year Biostatistics PhD Student at the Johns Hopkins Bloomberg School of Public Health. I work with Dr. Elizabeth Stuart in causal inference methods applied to mental health questions, and I specifically am focusing my dissertation research on combining multiple datasets to estimate heterogeneous treatment effects.\n\n\n\nEducation\nPhD Student in Biostatistics\nJohns Hopkins Bloomberg School of Public Health\nExpected Graduation: 2024\nMS in Applied Mathematics & Statistics\nJohns Hopkins University\nGraduation: May 2020\nBS in Applied Mathematics & Statistics\nJohns Hopkins University\nGraduation: May 2020\n\n\n\nSkills\nProgramming: R, SAS, MPlus, Python, MATLAB, Stata, SPSS, SQL\nStatistical Analysis: Machine learning, data integration, multiple imputation, propensity score estimation, variable selection, regression, latent class analysis, electronic health records, text mining, sentiment analysis, social network analysis, Bayesian statistics"
-  },
-  {
     "objectID": "experience.html",
     "href": "experience.html",
     "title": "Experience",
@@ -40,6 +19,27 @@
     "title": "Experience",
     "section": "Leadership Experience",
     "text": "Leadership Experience\n\nCo-President, Biostatistics Student Organization, Johns Hopkins University, 2022 – present\nBiostatistics Department Representative, Mental Health Graduate Network, Johns Hopkins University, 2021 – present\nMentoring Committee and Curriculum Committee Member, Biostatistics Student Organization, Johns Hopkins University, 2020 – present\nTeam Captain, Varsity Women’s Soccer, Johns Hopkins University, 2019\nAssistant New Member Director, Phi Mu Gamma Tau Chapter, Johns Hopkins University, 2019\nCaptains Cohort Member, Blue Jays LEAD, Johns Hopkins University, Spring 2019 – 2020"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Podcast: School Reopening Analysis. Data Skeptic. May 30, 2022. https://dataskeptic.com/blog/episodes/2022/school-reopening-analysis.\nLupton-Smith, C. January 24, 2022. Family Caregiving Subtypes and Well-Being in the Caregiving Transitions Study: A Latent Class Analysis. Research in Progress presentation for Epidemiology and Biostatistics of Aging Training Group.\nLupton-Smith, C. October 8, 2021. Factors Associated with County-Level Mental Health During the COVID-19 Pandemic. Invited presentation for Hopkins Biostatistics Virtual Prospective Student Event.\nLupton-Smith, C., Badillo Goicoechea, E., Chang, T., & Stuart, E. A. October 7, 2021. Factors Associated with County-Level Mental Health During the COVID-19 Pandemic. Women in Statistics and Data Science Conference."
+  },
+  {
+    "objectID": "presentations.html#posters",
+    "href": "presentations.html#posters",
+    "title": "Talks",
+    "section": "Posters",
+    "text": "Posters\n\nBentley, J., Lupton-Smith, C., & Roth, D. (2021). Family caregiving subtypes in the Caregiving Transitions Study: A latent class analysis. Gerontological Society of America.\nChang, T., Lupton-Smith, C., Badillo Goicoechea, E., & Stuart, E. A. (2021). Examining county-level mental health using Facebook COVID-19 Symptom Survey data. American Psychopathological Association.\nMcLaughlin, J. E., Lupton-Smith, C., Bell, E. L., Hubal, R., Persky, A. (2020). Automated analysis of course evaluation comments: The use of sentiment analysis to characterize classroom teaching. American Association of Colleges of Pharmacy. *Recipient of AACP SAS Best Poster Award"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Carly Lupton Brantner",
+    "section": "",
+    "text": "About Me\nMy name is Carly Lupton Brantner (recently Carly Lupton-Smith), and I am a third year Biostatistics PhD Student at the Johns Hopkins Bloomberg School of Public Health. I work with Dr. Elizabeth Stuart in causal inference methods applied to mental health questions, and I specifically am focusing my dissertation research on combining multiple datasets to estimate heterogeneous treatment effects.\n\n\n\nEducation\nPhD Student in Biostatistics\nJohns Hopkins Bloomberg School of Public Health\nExpected Graduation: 2024\nMS in Applied Mathematics & Statistics\nJohns Hopkins University\nGraduation: May 2020\nBS in Applied Mathematics & Statistics\nJohns Hopkins University\nGraduation: May 2020\n\n\n\nSkills\nProgramming: R, SAS, MPlus, Python, MATLAB, Stata, SPSS, SQL\nStatistical Analysis: Machine learning, data integration, multiple imputation, propensity score estimation, variable selection, regression, latent class analysis, electronic health records, text mining, sentiment analysis, social network analysis, Bayesian statistics"
   },
   {
     "objectID": "publications.html",
