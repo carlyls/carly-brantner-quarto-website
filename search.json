@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Podcast: School Reopening Analysis. Data Skeptic. May 30, 2022. https://dataskeptic.com/blog/episodes/2022/school-reopening-analysis.\nLupton-Smith, C. January 24, 2022. Family Caregiving Subtypes and Well-Being in the Caregiving Transitions Study: A Latent Class Analysis. Research in Progress presentation for Epidemiology and Biostatistics of Aging Training Group.\nLupton-Smith, C. October 8, 2021. Factors Associated with County-Level Mental Health During the COVID-19 Pandemic. Invited presentation for Hopkins Biostatistics Virtual Prospective Student Event.\nLupton-Smith, C., Badillo Goicoechea, E., Chang, T., & Stuart, E. A. October 7, 2021. Factors Associated with County-Level Mental Health During the COVID-19 Pandemic. Women in Statistics and Data Science Conference."
+  },
+  {
+    "objectID": "presentations.html#posters",
+    "href": "presentations.html#posters",
+    "title": "Talks",
+    "section": "Posters",
+    "text": "Posters\n\nBentley, J., Lupton-Smith, C., & Roth, D. (2021). Family caregiving subtypes in the Caregiving Transitions Study: A latent class analysis. Gerontological Society of America.\nChang, T., Lupton-Smith, C., Badillo Goicoechea, E., & Stuart, E. A. (2021). Examining county-level mental health using Facebook COVID-19 Symptom Survey data. American Psychopathological Association.\nMcLaughlin, J. E., Lupton-Smith, C., Bell, E. L., Hubal, R., Persky, A. (2020). Automated analysis of course evaluation comments: The use of sentiment analysis to characterize classroom teaching. American Association of Colleges of Pharmacy. *Recipient of AACP SAS Best Poster Award"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Carly Lupton Brantner",
@@ -47,26 +61,5 @@
     "title": "Publications",
     "section": "Other Applied Projects",
     "text": "Other Applied Projects\n\nMcLaughlin, J. E., Lyons, K., Lupton-Smith, C., & Fuller, K. (2022). An introduction to text analytics for educators. Currents in Pharmacy Teaching and Learning. https://doi.org/10.1016/j.cptl.2022.09.005\nLupton-Smith, C., Stuart, E., McGinty, B., Dalcin, A., Jerome, G. J., Wang, N. Y., & Daumit, G. (2021). Determining predictors of weight loss in a behavioral intervention: A case study in the use of Lasso regression. Frontiers in Psychiatry, 12, 707707. https://doi.org/10.3389/fpsyt.2021.707707\nOlsen, A., Lupton-Smith, C., Rodgers, P., & McLaughlin, J. E. (2021). Characterizing research about interprofessional education within pharmacy. American Journal of Pharmaceutical Education, 85(8), 8541. https://doi.org/10.5688/ajpe8541.\nWolcott, M. D., Lupton-Smith, C., Cox, W. C., & McLaughlin, J. E. (2019). A 5-minute Situational Judgment Test to assess empathy in first-year student pharmacists. American Journal of Pharmaceutical Education, 83(6), Article 6960.\nMcLaughlin, J. E., Lupton-Smith, C., & Wolcott, M. D. (2018). Text mining as a method for examining the alignment between educational outcomes and the workforce needs. Education in the Health Professions, 1(2), 55-60."
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Here is a link to my CV."
-  },
-  {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
-    "title": "Talks",
-    "section": "",
-    "text": "Podcast: School Reopening Analysis. Data Skeptic. May 30, 2022. https://dataskeptic.com/blog/episodes/2022/school-reopening-analysis.\nLupton-Smith, C. January 24, 2022. Family Caregiving Subtypes and Well-Being in the Caregiving Transitions Study: A Latent Class Analysis. Research in Progress presentation for Epidemiology and Biostatistics of Aging Training Group.\nLupton-Smith, C. October 8, 2021. Factors Associated with County-Level Mental Health During the COVID-19 Pandemic. Invited presentation for Hopkins Biostatistics Virtual Prospective Student Event.\nLupton-Smith, C., Badillo Goicoechea, E., Chang, T., & Stuart, E. A. October 7, 2021. Factors Associated with County-Level Mental Health During the COVID-19 Pandemic. Women in Statistics and Data Science Conference."
-  },
-  {
-    "objectID": "presentations.html#posters",
-    "href": "presentations.html#posters",
-    "title": "Talks",
-    "section": "Posters",
-    "text": "Posters\n\nBentley, J., Lupton-Smith, C., & Roth, D. (2021). Family caregiving subtypes in the Caregiving Transitions Study: A latent class analysis. Gerontological Society of America.\nChang, T., Lupton-Smith, C., Badillo Goicoechea, E., & Stuart, E. A. (2021). Examining county-level mental health using Facebook COVID-19 Symptom Survey data. American Psychopathological Association.\nMcLaughlin, J. E., Lupton-Smith, C., Bell, E. L., Hubal, R., Persky, A. (2020). Automated analysis of course evaluation comments: The use of sentiment analysis to characterize classroom teaching. American Association of Colleges of Pharmacy. *Recipient of AACP SAS Best Poster Award"
   }
 ]
