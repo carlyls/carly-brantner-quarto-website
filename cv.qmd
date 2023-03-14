@@ -2,4 +2,4 @@
 title: "CV"
 ---
 
-Here is a link to my CV.
+![](CLB_CV_Feb2023.pdf)
