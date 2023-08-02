@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/carlyls/carly-brantner-quarto-website/cv.html</loc>
-    <lastmod>2023-03-14T19:05:43.830Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/carlyls/carly-brantner-quarto-website/experience.html</loc>
-    <lastmod>2023-03-14T19:05:44.579Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/carlyls/carly-brantner-quarto-website/presentations.html</loc>
-    <lastmod>2023-03-14T19:05:44.899Z</lastmod>
+    <loc>https://github.com/carlyls/carly-brantner-quarto-website/publications.html</loc>
+    <lastmod>2023-08-02T20:59:04.230Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/carlyls/carly-brantner-quarto-website/index.html</loc>
-    <lastmod>2023-03-14T19:05:45.251Z</lastmod>
+    <lastmod>2023-08-02T20:59:03.582Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/carlyls/carly-brantner-quarto-website/publications.html</loc>
-    <lastmod>2023-03-14T19:05:45.567Z</lastmod>
+    <loc>https://github.com/carlyls/carly-brantner-quarto-website/experience.html</loc>
+    <lastmod>2023-08-02T20:59:02.922Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/carlyls/carly-brantner-quarto-website/presentations.html</loc>
+    <lastmod>2023-08-02T20:59:02.266Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/carlyls/carly-brantner-quarto-website/teaching.html</loc>
+    <lastmod>2023-08-02T20:59:03.266Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/carlyls/carly-brantner-quarto-website/cv.html</loc>
+    <lastmod>2023-08-02T20:59:03.858Z</lastmod>
   </url>
 </urlset>
