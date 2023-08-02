@@ -8,7 +8,9 @@ My research interests are broadly in causal inference, data integration, and par
 
 -   **Research Assistant,** *Dr. Elizabeth Stuart at Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland,* Spring 2019 -- present
 
--   **Graduate Trainee,** *Epidemiology and Biostatistics of Aging Training Grant at Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland,* Fall 2020 -- present
+-   **Data Science Intern,** *Mathematica Policy Research, Washington, DC,* Summer 2023
+
+-   **Graduate Trainee,** *Epidemiology and Biostatistics of Aging Training Grant at Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland,* Fall 2020 -- Spring 2023
 
 -   **CIPhER Intern in Education Research and Assessment,** *Center for Innovative Pharmacy Education and Research (CIPhER) at UNC Eshelman School of Pharmacy, Chapel Hill, North Carolina,* Summer 2019
 
@@ -23,6 +25,8 @@ My research interests are broadly in causal inference, data integration, and par
 -   **Biostatistics Department Representative,** *Mental Health Graduate Network, Johns Hopkins University,* 2021 -- present
 
 -   **Mentoring Committee and Curriculum Committee Member,** *Biostatistics Student Organization, Johns Hopkins University,* 2020 -- present
+
+-   **Council of Emerging and New Statisticians (CENS) Member,** *ENAR of International Biometrics Society,* 2023 - present
 
 -   **Team Captain,** *Varsity Women's Soccer, Johns Hopkins University,* 2019
 
