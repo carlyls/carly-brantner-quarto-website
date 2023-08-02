@@ -5,10 +5,15 @@ editor: visual
 
 ## Heterogeneous Treatment Effect Estimation
 
--   **Brantner, C. L.,** Chang, T., Nguyen, T. Q., Hong, H., Di Stefano, L., & Stuart, E. A. (2022). Strategies for integrating multiple datasets to examine treatment effect heterogeneity. Under review.
+-   **Brantner, C. L.,** Chang, T., Nguyen, T. Q., Hong, H., Di Stefano, L., & Stuart, E. A. (2023). Methods for integrating trials and non-experimental data to examine treatment effect heterogeneity. Statistical Science. In press.
 
--   **Brantner, C. L.,** Nguyen, T. Q., Teng, T., Zhao, C., Hong, H., & Stuart, E. A. Comparing machine learning methods for estimating heterogeneous treatment effects by combining data from multiple randomized controlled trials. In progress.\
+-   **Brantner, C. L.,** Nguyen, T. Q., Teng, T., Zhao, C., Hong, H., & Stuart, E. A. Comparing machine learning methods for estimating heterogeneous treatment effects by combining data from multiple randomized controlled trials. Under review.\
     [**Code**](https://github.com/carlyls/CATE_multiRCT)
+
+## Mental Health Analyses
+
+-   Ettman, C. K., **Brantner, C. L.,** Albert, M., Goes, F., Mojtabai, R., Spivak, S., Stuart, E. A., & Zandi, P. P. Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. Psychiatric Services. In press.
+-   **Lupton-Smith, C.,** Stuart, E., McGinty, B., Dalcin, A., Jerome, G. J., Wang, N. Y., & Daumit, G. (2021). Determining predictors of weight loss in a behavioral intervention: A case study in the use of Lasso regression. *Frontiers in Psychiatry, 12*, 707707. <https://doi.org/10.3389/fpsyt.2021.707707>
 
 ## COVID-19 Projects
 
@@ -23,9 +28,9 @@ editor: visual
 
 ## Other Applied Projects
 
--   McLaughlin, J. E., Lyons, K., **Lupton-Smith, C.,** & Fuller, K. (2022). An introduction to text analytics for educators. *Currents in Pharmacy Teaching and Learning.* <https://doi.org/10.1016/j.cptl.2022.09.005>
+-   Olsen, A. A., **Brantner, C. L.,** Dallaghan, G. L. B., & McLaughlin, J. E. (2023). A review of interprofessional education research: Disciplines, authorship practices, research design, and dissemination trends. Journal of Interprofessional Education & Practice. doi:10.1016/j.xjep.2023.100653
 
--   **Lupton-Smith, C.,** Stuart, E., McGinty, B., Dalcin, A., Jerome, G. J., Wang, N. Y., & Daumit, G. (2021). Determining predictors of weight loss in a behavioral intervention: A case study in the use of Lasso regression. *Frontiers in Psychiatry, 12*, 707707. <https://doi.org/10.3389/fpsyt.2021.707707>
+-   McLaughlin, J. E., Lyons, K., **Lupton-Smith, C.,** & Fuller, K. (2022). An introduction to text analytics for educators. *Currents in Pharmacy Teaching and Learning.* <https://doi.org/10.1016/j.cptl.2022.09.005>
 
 -   Olsen, A., **Lupton-Smith, C.,** Rodgers, P., & McLaughlin, J. E. (2021). Characterizing research about interprofessional education within pharmacy. *American Journal of Pharmaceutical Education, 85*(8), 8541. https://doi.org/10.5688/ajpe8541.
 
