@@ -5,17 +5,29 @@ editor: visual
 
 ## Presentations
 
--   *Podcast:* School Reopening Analysis. Data Skeptic. May 30, 2022. <https://dataskeptic.com/blog/episodes/2022/school-reopening-analysis>.
+-   **Brantner, C. L.** March 22, 2023. Combining Datasets to Estimate Heterogeneous Treatment Effects. *Eastern North American Region (ENAR) International Biometrics Society.*
+
+-   **Brantner, C. L.** December 18, 2022. Combining Datasets to Estimate Heterogeneous Treatment Effects. *International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022).*
+
+-   *Podcast:* School Reopening Analysis. *Data Skeptic.* May 30, 2022. <https://dataskeptic.com/blog/episodes/2022/school-reopening-analysis>.
 
 -   **Lupton-Smith, C.** January 24, 2022. Family Caregiving Subtypes and Well-Being in the Caregiving Transitions Study: A Latent Class Analysis. Research in Progress presentation for Epidemiology and Biostatistics of Aging Training Group.
 
 -   **Lupton-Smith, C**. October 8, 2021. Factors Associated with County-Level Mental Health During the COVID-19 Pandemic. Invited presentation for Hopkins Biostatistics Virtual Prospective Student Event.
 
--   **Lupton-Smith, C.,** Badillo Goicoechea, E., Chang, T., & Stuart, E. A. October 7, 2021. Factors Associated with County-Level Mental Health During the COVID-19 Pandemic. Women in Statistics and Data Science Conference.
+-   **Lupton-Smith, C.,** Badillo Goicoechea, E., Chang, T., & Stuart, E. A. October 7, 2021. Factors Associated with County-Level Mental Health During the COVID-19 Pandemic. *Women in Statistics and Data Science Conference.*
 
 ------------------------------------------------------------------------
 
 ## Posters
+
+-   **Brantner, C. L.** (2023). Combining datasets to estimate heterogeneous treatment effects. *American Causal Inference Conference.*
+
+-   Ettman, C. K., **Brantner, C. L.,** Albert, M., et al. (2023). Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. *Society for Epidemiologic Research.*
+
+-   Ettman, C. K., **Brantner, C. L.,** Albert, M., et al. (2023). Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. *AcademyHealth*.
+
+-   Ettman, C. K., **Brantner, C. L.,** Albert, M., et al. (2023). Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. *International Association for Population Health Sciences.*
 
 -   Bentley, J., **Lupton-Smith, C.,** & Roth, D. (2021). Family caregiving subtypes in the Caregiving Transitions Study: A latent class analysis. *Gerontological Society of America.*
 
