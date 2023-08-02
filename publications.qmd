@@ -13,6 +13,7 @@ editor: visual
 ## Mental Health Analyses
 
 -   Ettman, C. K., **Brantner, C. L.,** Albert, M., Goes, F., Mojtabai, R., Spivak, S., Stuart, E. A., & Zandi, P. P. Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. *Psychiatric Services.* In press.
+
 -   **Lupton-Smith, C.,** Stuart, E., McGinty, B., Dalcin, A., Jerome, G. J., Wang, N. Y., & Daumit, G. (2021). Determining predictors of weight loss in a behavioral intervention: A case study in the use of Lasso regression. *Frontiers in Psychiatry, 12*, 707707. <https://doi.org/10.3389/fpsyt.2021.707707>
 
 ## COVID-19 Projects
