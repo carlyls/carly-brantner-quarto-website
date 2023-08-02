@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Brantner, C. L., Chang, T., Nguyen, T. Q., Hong, H., Di Stefano, L., & Stuart, E. A. (2023). Methods for integrating trials and non-experimental data to examine treatment effect heterogeneity. Statistical Science. In press.\nBrantner, C. L., Nguyen, T. Q., Teng, T., Zhao, C., Hong, H., & Stuart, E. A. Comparing machine learning methods for estimating heterogeneous treatment effects by combining data from multiple randomized controlled trials. Under review.\nCode"
-  },
-  {
-    "objectID": "publications.html#heterogeneous-treatment-effect-estimation",
-    "href": "publications.html#heterogeneous-treatment-effect-estimation",
-    "title": "Publications",
-    "section": "",
-    "text": "Brantner, C. L., Chang, T., Nguyen, T. Q., Hong, H., Di Stefano, L., & Stuart, E. A. (2023). Methods for integrating trials and non-experimental data to examine treatment effect heterogeneity. Statistical Science. In press.\nBrantner, C. L., Nguyen, T. Q., Teng, T., Zhao, C., Hong, H., & Stuart, E. A. Comparing machine learning methods for estimating heterogeneous treatment effects by combining data from multiple randomized controlled trials. Under review.\nCode"
-  },
-  {
-    "objectID": "publications.html#mental-health-analyses",
-    "href": "publications.html#mental-health-analyses",
-    "title": "Publications",
-    "section": "Mental Health Analyses",
-    "text": "Mental Health Analyses\n\nEttman, C. K., Brantner, C. L., Albert, M., Goes, F., Mojtabai, R., Spivak, S., Stuart, E. A., & Zandi, P. P. Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. Psychiatric Services. In press.\nLupton-Smith, C., Stuart, E., McGinty, B., Dalcin, A., Jerome, G. J., Wang, N. Y., & Daumit, G. (2021). Determining predictors of weight loss in a behavioral intervention: A case study in the use of Lasso regression. Frontiers in Psychiatry, 12, 707707. https://doi.org/10.3389/fpsyt.2021.707707"
-  },
-  {
-    "objectID": "publications.html#covid-19-projects",
-    "href": "publications.html#covid-19-projects",
-    "title": "Publications",
-    "section": "COVID-19 Projects",
-    "text": "COVID-19 Projects\n\nLupton-Smith, C., Badillo-Goicoechea, E., Collins, M., Lessler, J., Grabowski, M. K., & Stuart, E. A. (2022). Consistency between household and county measures of onsite schooling during the COVID-19 pandemic. Journal of Research on Educational Effectiveness. https://doi.org/10.1080/19345747.2022.2131660\nCode\nLupton-Smith, C., Badillo-Goicoechea, E., Chang, T. Maniates, H., Riehm, K. E., Schmid, I., & Stuart, E. A. (2022). Factors associated with county-level mental health during the COVID-19 pandemic. Journal of Community Psychology, 50(5), 2431-2442. https://doi.org/10.1002/jcop.22785\nRiehm, K. E., Badillo-Goicoechea, E., Wang, F. M., Kim, E., Aldridge, L. R., Lupton-Smith, C., Presskreischer, R., Chang, T., LaRocca, S., Kreuter, F., & Stuart, E. A. (2022). Association of Non-Pharmaceutical Interventions with Anxiety and Depressive Symptoms during the COVID-19 Pandemic: A Multi-National Study of 43 Countries. International Journal of Public Health, 67, 1604430. https://doi.org/10.3389/ijph.2022.1604430\nLessler, J., Grabowski, M. K., Grantz, K. H., Badillo-Goicoechea, E., Metcalf, C. J. E., Lupton-Smith, C., Azman, A. S., Stuart, E. A. (2021). Household COVID-19 risk and in-person schooling. Science, 372(6546), 1092-1097. https://doi.org/10.1126/science.abh2939"
-  },
-  {
-    "objectID": "publications.html#other-applied-projects",
-    "href": "publications.html#other-applied-projects",
-    "title": "Publications",
-    "section": "Other Applied Projects",
-    "text": "Other Applied Projects\n\nOlsen, A. A., Brantner, C. L., Dallaghan, G. L. B., & McLaughlin, J. E. (2023). A review of interprofessional education research: Disciplines, authorship practices, research design, and dissemination trends. Journal of Interprofessional Education & Practice. https://doi.org/10.1016/j.xjep.2023.100653\nMcLaughlin, J. E., Lyons, K., Lupton-Smith, C., & Fuller, K. (2022). An introduction to text analytics for educators. Currents in Pharmacy Teaching and Learning. https://doi.org/10.1016/j.cptl.2022.09.005\nOlsen, A., Lupton-Smith, C., Rodgers, P., & McLaughlin, J. E. (2021). Characterizing research about interprofessional education within pharmacy. American Journal of Pharmaceutical Education, 85(8), 8541. https://doi.org/10.5688/ajpe8541\nWolcott, M. D., Lupton-Smith, C., Cox, W. C., & McLaughlin, J. E. (2019). A 5-minute Situational Judgment Test to assess empathy in first-year student pharmacists. American Journal of Pharmaceutical Education, 83(6), Article 6960.\nMcLaughlin, J. E., Lupton-Smith, C., & Wolcott, M. D. (2018). Text mining as a method for examining the alignment between educational outcomes and the workforce needs. Education in the Health Professions, 1(2), 55-60."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Carly Lupton Brantner",
-    "section": "",
-    "text": "About Me\nMy name is Carly Lupton Brantner (recently Carly Lupton-Smith), and I am a fourth year Biostatistics PhD Student at the Johns Hopkins Bloomberg School of Public Health. I work with Dr. Elizabeth Stuart in causal inference methods applied to mental health questions, and I specifically am focusing my dissertation research on combining multiple datasets to estimate heterogeneous treatment effects. Many of the methods I use fall under the categories of machine learning and non-parametric statistics.\n\n\n\nEducation\nPhD Student in Biostatistics\nJohns Hopkins Bloomberg School of Public Health\nExpected Graduation: May 2024\nMS in Applied Mathematics & Statistics\nJohns Hopkins University\nGraduation: May 2020\nBS in Applied Mathematics & Statistics\nJohns Hopkins University\nGraduation: May 2020\n\n\n\nSkills\nProgramming: R, SAS, MPlus, Python, MATLAB, Stata, SPSS, SQL\nStatistical Analysis: Machine learning, data integration, causal inference, non-parametric statistics, meta-analysis, multiple imputation, propensity score estimation, variable selection, regression, latent class analysis, electronic health records, text mining, sentiment analysis"
-  },
-  {
     "objectID": "experience.html",
     "href": "experience.html",
     "title": "Experience",
@@ -82,6 +40,48 @@
     "title": "Talks",
     "section": "Posters",
     "text": "Posters\n\nBrantner, C. L. (2023). Combining datasets to estimate heterogeneous treatment effects. American Causal Inference Conference.\nEttman, C. K., Brantner, C. L., Albert, M., et al. (2023). Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. Society for Epidemiologic Research.\nEttman, C. K., Brantner, C. L., Albert, M., et al. (2023). Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. AcademyHealth.\nEttman, C. K., Brantner, C. L., Albert, M., et al. (2023). Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. International Association for Population Health Sciences.\nBentley, J., Lupton-Smith, C., & Roth, D. (2021). Family caregiving subtypes in the Caregiving Transitions Study: A latent class analysis. Gerontological Society of America.\nChang, T., Lupton-Smith, C., Badillo Goicoechea, E., & Stuart, E. A. (2021). Examining county-level mental health using Facebook COVID-19 Symptom Survey data. American Psychopathological Association.\nMcLaughlin, J. E., Lupton-Smith, C., Bell, E. L., Hubal, R., Persky, A. (2020). Automated analysis of course evaluation comments: The use of sentiment analysis to characterize classroom teaching. American Association of Colleges of Pharmacy. *Recipient of AACP SAS Best Poster Award"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Brantner, C. L., Chang, T., Nguyen, T. Q., Hong, H., Di Stefano, L., & Stuart, E. A. (2023). Methods for integrating trials and non-experimental data to examine treatment effect heterogeneity. Statistical Science. In press.\nBrantner, C. L., Nguyen, T. Q., Teng, T., Zhao, C., Hong, H., & Stuart, E. A. Comparing machine learning methods for estimating heterogeneous treatment effects by combining data from multiple randomized controlled trials. Under review.\nCode"
+  },
+  {
+    "objectID": "publications.html#heterogeneous-treatment-effect-estimation",
+    "href": "publications.html#heterogeneous-treatment-effect-estimation",
+    "title": "Publications",
+    "section": "",
+    "text": "Brantner, C. L., Chang, T., Nguyen, T. Q., Hong, H., Di Stefano, L., & Stuart, E. A. (2023). Methods for integrating trials and non-experimental data to examine treatment effect heterogeneity. Statistical Science. In press.\nBrantner, C. L., Nguyen, T. Q., Teng, T., Zhao, C., Hong, H., & Stuart, E. A. Comparing machine learning methods for estimating heterogeneous treatment effects by combining data from multiple randomized controlled trials. Under review.\nCode"
+  },
+  {
+    "objectID": "publications.html#mental-health-analyses",
+    "href": "publications.html#mental-health-analyses",
+    "title": "Publications",
+    "section": "Mental Health Analyses",
+    "text": "Mental Health Analyses\n\nEttman, C. K., Brantner, C. L., Albert, M., Goes, F., Mojtabai, R., Spivak, S., Stuart, E. A., & Zandi, P. P. Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. Psychiatric Services. In press.\nLupton-Smith, C., Stuart, E., McGinty, B., Dalcin, A., Jerome, G. J., Wang, N. Y., & Daumit, G. (2021). Determining predictors of weight loss in a behavioral intervention: A case study in the use of Lasso regression. Frontiers in Psychiatry, 12, 707707. https://doi.org/10.3389/fpsyt.2021.707707"
+  },
+  {
+    "objectID": "publications.html#covid-19-projects",
+    "href": "publications.html#covid-19-projects",
+    "title": "Publications",
+    "section": "COVID-19 Projects",
+    "text": "COVID-19 Projects\n\nLupton-Smith, C., Badillo-Goicoechea, E., Collins, M., Lessler, J., Grabowski, M. K., & Stuart, E. A. (2022). Consistency between household and county measures of onsite schooling during the COVID-19 pandemic. Journal of Research on Educational Effectiveness. https://doi.org/10.1080/19345747.2022.2131660\nCode\nLupton-Smith, C., Badillo-Goicoechea, E., Chang, T. Maniates, H., Riehm, K. E., Schmid, I., & Stuart, E. A. (2022). Factors associated with county-level mental health during the COVID-19 pandemic. Journal of Community Psychology, 50(5), 2431-2442. https://doi.org/10.1002/jcop.22785\nRiehm, K. E., Badillo-Goicoechea, E., Wang, F. M., Kim, E., Aldridge, L. R., Lupton-Smith, C., Presskreischer, R., Chang, T., LaRocca, S., Kreuter, F., & Stuart, E. A. (2022). Association of Non-Pharmaceutical Interventions with Anxiety and Depressive Symptoms during the COVID-19 Pandemic: A Multi-National Study of 43 Countries. International Journal of Public Health, 67, 1604430. https://doi.org/10.3389/ijph.2022.1604430\nLessler, J., Grabowski, M. K., Grantz, K. H., Badillo-Goicoechea, E., Metcalf, C. J. E., Lupton-Smith, C., Azman, A. S., Stuart, E. A. (2021). Household COVID-19 risk and in-person schooling. Science, 372(6546), 1092-1097. https://doi.org/10.1126/science.abh2939"
+  },
+  {
+    "objectID": "publications.html#other-applied-projects",
+    "href": "publications.html#other-applied-projects",
+    "title": "Publications",
+    "section": "Other Applied Projects",
+    "text": "Other Applied Projects\n\nOlsen, A. A., Brantner, C. L., Dallaghan, G. L. B., & McLaughlin, J. E. (2023). A review of interprofessional education research: Disciplines, authorship practices, research design, and dissemination trends. Journal of Interprofessional Education & Practice. https://doi.org/10.1016/j.xjep.2023.100653\nMcLaughlin, J. E., Lyons, K., Lupton-Smith, C., & Fuller, K. (2022). An introduction to text analytics for educators. Currents in Pharmacy Teaching and Learning. https://doi.org/10.1016/j.cptl.2022.09.005\nOlsen, A., Lupton-Smith, C., Rodgers, P., & McLaughlin, J. E. (2021). Characterizing research about interprofessional education within pharmacy. American Journal of Pharmaceutical Education, 85(8), 8541. https://doi.org/10.5688/ajpe8541\nWolcott, M. D., Lupton-Smith, C., Cox, W. C., & McLaughlin, J. E. (2019). A 5-minute Situational Judgment Test to assess empathy in first-year student pharmacists. American Journal of Pharmaceutical Education, 83(6), Article 6960.\nMcLaughlin, J. E., Lupton-Smith, C., & Wolcott, M. D. (2018). Text mining as a method for examining the alignment between educational outcomes and the workforce needs. Education in the Health Professions, 1(2), 55-60."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Carly Lupton Brantner",
+    "section": "",
+    "text": "About Me\nMy name is Carly Lupton Brantner (recently Carly Lupton-Smith), and I am a fourth year Biostatistics PhD Student at the Johns Hopkins Bloomberg School of Public Health. I work with Dr. Elizabeth Stuart in causal inference methods applied to mental health questions, and I specifically am focusing my dissertation research on combining multiple datasets to estimate heterogeneous treatment effects. Many of the methods I use fall under the categories of machine learning and non-parametric statistics.\n\n\n\nEducation\nPhD Student in Biostatistics\nJohns Hopkins Bloomberg School of Public Health\nExpected Graduation: May 2024\nMS in Applied Mathematics & Statistics\nJohns Hopkins University\nGraduation: May 2020\nBS in Applied Mathematics & Statistics\nJohns Hopkins University\nGraduation: May 2020\n\n\n\nSkills\nProgramming: R, SAS, MPlus, Python, MATLAB, Stata, SPSS, SQL\nStatistical Analysis: Machine learning, data integration, causal inference, non-parametric statistics, meta-analysis, multiple imputation, propensity score estimation, variable selection, regression, latent class analysis, electronic health records, text mining, sentiment analysis"
   },
   {
     "objectID": "teaching.html",
