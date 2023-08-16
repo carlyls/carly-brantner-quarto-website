@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I have experience as a teaching assistant for graduate and undergraduate students. I am passionate about conveying statistical techniques to audiences with a variety of backgrounds. I like to emphasize application and collaboration when teaching new concepts."
+  },
+  {
+    "objectID": "teaching.html#graduate-courses",
+    "href": "teaching.html#graduate-courses",
+    "title": "Teaching",
+    "section": "Graduate Courses",
+    "text": "Graduate Courses\n\nStatistical Methods in Public Health I/II\nLead Teaching Assistant, Fall 2022 and Fall 2023\nTeaching Assistant, Fall 2021\nJohns Hopkins Bloomberg School of Public Health\nInstructors: Dr. Marie Diener-West and Dr. Karen Bandeen-Roche\nCourse description: Introduces the basic concepts and methods of statistics as applied to diverse problems in public health and medicine. Demonstrates methods of exploring, organizing, and presenting data, and introduces fundamentals of probability, including probability distributions and conditional probability, with applications to 2x2 tables. Presents the foundations of statistical inference, including concepts of population, sample parameter, and estimate; and approaches to inferences using the likelihood function, confidence intervals, and hypothesis tests. Introduces and employs the statistical computing package, STATA or R, to manipulate data and prepare students for remaining course work in this sequence.\n\n\nCausal Inference in Medicine and Public Health I\nTeaching Assistant, Spring 2022 and Spring 2023\nJohns Hopkins Bloomberg School of Public Health\nInstructor: Dr. Elizabeth Stuart\nCourse description: Presents an overview of methods for estimating causal effects: how to answer the question of “What is the effect of A on B?” Includes discussion of randomized designs, but with more emphasis on alternative designs for when randomization is infeasible: matching methods, propensity scores, regression discontinuity, and instrumental variables. Motivates methods by examples from the health sciences, particularly mental health and community or school-level interventions."
+  },
+  {
+    "objectID": "teaching.html#undergraduate-courses",
+    "href": "teaching.html#undergraduate-courses",
+    "title": "Teaching",
+    "section": "Undergraduate Courses",
+    "text": "Undergraduate Courses\n\nLeading Teams\nCourse Assistant, Fall 2018 - Spring 2020\nJohns Hopkins University\nInstructor: Dr. William Smedick\nCourse description: This course will allow students to develop the analytical skills needed to effectively lead and work in teams. Students will learn tools and techniques for problem solving, decision-making, conflict resolution, task management, communications, and goal alignment in team settings. They will also learn how to measure team dynamics and performance, and assess methods for building and sustaining high-performance teams. Students will also explore their own leadership, personality and cognitive styles and learn how these may affect their performance in a team. The course will focus on team-based experiential projects and exercises as well as provide opportunities to individually reflect and write about the concepts explored and skills gained throughout the course."
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -42,27 +63,6 @@
     "text": "About Me\nMy name is Carly Lupton Brantner (recently Carly Lupton-Smith), and I am a fourth year Biostatistics PhD Student at the Johns Hopkins Bloomberg School of Public Health. I work with Dr. Elizabeth Stuart in causal inference methods applied to mental health questions, and I specifically am focusing my dissertation research on combining multiple datasets to estimate heterogeneous treatment effects. Many of the methods I use fall under the categories of machine learning and non-parametric statistics.\n\n\n\nEducation\nPhD Student in Biostatistics\nJohns Hopkins Bloomberg School of Public Health\nExpected Graduation: May 2024\nMS in Applied Mathematics & Statistics\nJohns Hopkins University\nGraduation: May 2020\nBS in Applied Mathematics & Statistics\nJohns Hopkins University\nGraduation: May 2020\n\n\n\nSkills\nProgramming: R, SAS, MPlus, Python, MATLAB, Stata, SPSS, SQL\nStatistical Analysis: Machine learning, data integration, causal inference, non-parametric statistics, meta-analysis, multiple imputation, propensity score estimation, variable selection, regression, latent class analysis, electronic health records, text mining, sentiment analysis"
   },
   {
-    "objectID": "experience.html",
-    "href": "experience.html",
-    "title": "Experience",
-    "section": "",
-    "text": "My research interests are broadly in causal inference, data integration, and parametric and non-parametric modeling. I am interested in substantive questions in mental health, education, substance use, and aging."
-  },
-  {
-    "objectID": "experience.html#professional-experience",
-    "href": "experience.html#professional-experience",
-    "title": "Experience",
-    "section": "Professional Experience",
-    "text": "Professional Experience\n\nResearch Assistant, Dr. Elizabeth Stuart at Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, Spring 2019 – present\nData Science Intern, Mathematica Policy Research, Washington, DC, Summer 2023\nGraduate Trainee, Epidemiology and Biostatistics of Aging Training Grant at Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, Fall 2020 – Spring 2023\nCIPhER Intern in Education Research and Assessment, Center for Innovative Pharmacy Education and Research (CIPhER) at UNC Eshelman School of Pharmacy, Chapel Hill, North Carolina, Summer 2019\nCourse Assistant, Center for Leadership Education at Johns Hopkins University, Baltimore, Maryland, Fall 2018 – Spring 2020\nStudent/Researcher, Summer Institute in Biostatistics (SIBS) at North Carolina State University, Raleigh, North Carolina, Summer 2018"
-  },
-  {
-    "objectID": "experience.html#leadership-experience",
-    "href": "experience.html#leadership-experience",
-    "title": "Experience",
-    "section": "Leadership Experience",
-    "text": "Leadership Experience\n\nCo-President, Biostatistics Student Organization, Johns Hopkins University, 2022 – present\nBiostatistics Department Representative, Mental Health Graduate Network, Johns Hopkins University, 2021 – present\nMentoring Committee and Curriculum Committee Member, Biostatistics Student Organization, Johns Hopkins University, 2020 – present\nCouncil of Emerging and New Statisticians (CENS) Member, ENAR of International Biometrics Society, 2023 - present\nTeam Captain, Varsity Women’s Soccer, Johns Hopkins University, 2019\nAssistant New Member Director, Phi Mu Gamma Tau Chapter, Johns Hopkins University, 2019\nCaptains Cohort Member, Blue Jays LEAD, Johns Hopkins University, Spring 2019 – 2020"
-  },
-  {
     "objectID": "presentations.html",
     "href": "presentations.html",
     "title": "Talks",
@@ -84,24 +84,24 @@
     "text": "Posters\n\nBrantner, C. L. (2023). Combining datasets to estimate heterogeneous treatment effects. American Causal Inference Conference.\nEttman, C. K., Brantner, C. L., Albert, M., et al. (2023). Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. Society for Epidemiologic Research.\nEttman, C. K., Brantner, C. L., Albert, M., et al. (2023). Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. AcademyHealth.\nEttman, C. K., Brantner, C. L., Albert, M., et al. (2023). Trends in telehealth and in-person psychiatric care from 2017-2022 among patients with depression in a large US academic medical system. International Association for Population Health Sciences.\nBentley, J., Lupton-Smith, C., & Roth, D. (2021). Family caregiving subtypes in the Caregiving Transitions Study: A latent class analysis. Gerontological Society of America.\nChang, T., Lupton-Smith, C., Badillo Goicoechea, E., & Stuart, E. A. (2021). Examining county-level mental health using Facebook COVID-19 Symptom Survey data. American Psychopathological Association.\nMcLaughlin, J. E., Lupton-Smith, C., Bell, E. L., Hubal, R., Persky, A. (2020). Automated analysis of course evaluation comments: The use of sentiment analysis to characterize classroom teaching. American Association of Colleges of Pharmacy. *Recipient of AACP SAS Best Poster Award"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
     "section": "",
-    "text": "I have experience as a teaching assistant for graduate and undergraduate students. I am passionate about conveying statistical techniques to audiences with a variety of backgrounds. I like to emphasize application and collaboration when teaching new concepts."
+    "text": "My research interests are broadly in causal inference, data integration, and parametric and non-parametric modeling. I am interested in substantive questions in mental health, education, substance use, and aging."
   },
   {
-    "objectID": "teaching.html#graduate-courses",
-    "href": "teaching.html#graduate-courses",
-    "title": "Teaching",
-    "section": "Graduate Courses",
-    "text": "Graduate Courses\n\nStatistical Methods in Public Health I/II\nLead Teaching Assistant, Fall 2022 and Fall 2023\nTeaching Assistant, Fall 2021\nJohns Hopkins Bloomberg School of Public Health\nInstructors: Dr. Marie Diener-West and Dr. Karen Bandeen-Roche\nCourse description: Introduces the basic concepts and methods of statistics as applied to diverse problems in public health and medicine. Demonstrates methods of exploring, organizing, and presenting data, and introduces fundamentals of probability, including probability distributions and conditional probability, with applications to 2x2 tables. Presents the foundations of statistical inference, including concepts of population, sample parameter, and estimate; and approaches to inferences using the likelihood function, confidence intervals, and hypothesis tests. Introduces and employs the statistical computing package, STATA or R, to manipulate data and prepare students for remaining course work in this sequence.\n\n\nCausal Inference in Medicine and Public Health I\nTeaching Assistant, Spring 2022 and Spring 2023\nJohns Hopkins Bloomberg School of Public Health\nInstructor: Dr. Elizabeth Stuart\nCourse description: Presents an overview of methods for estimating causal effects: how to answer the question of “What is the effect of A on B?” Includes discussion of randomized designs, but with more emphasis on alternative designs for when randomization is infeasible: matching methods, propensity scores, regression discontinuity, and instrumental variables. Motivates methods by examples from the health sciences, particularly mental health and community or school-level interventions."
+    "objectID": "experience.html#professional-experience",
+    "href": "experience.html#professional-experience",
+    "title": "Experience",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nResearch Assistant, Dr. Elizabeth Stuart at Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, Spring 2019 – present\nData Science Intern, Mathematica Policy Research, Washington, DC, Summer 2023\nGraduate Trainee, Epidemiology and Biostatistics of Aging Training Grant at Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, Fall 2020 – Spring 2023\nCIPhER Intern in Education Research and Assessment, Center for Innovative Pharmacy Education and Research (CIPhER) at UNC Eshelman School of Pharmacy, Chapel Hill, North Carolina, Summer 2019\nCourse Assistant, Center for Leadership Education at Johns Hopkins University, Baltimore, Maryland, Fall 2018 – Spring 2020\nStudent/Researcher, Summer Institute in Biostatistics (SIBS) at North Carolina State University, Raleigh, North Carolina, Summer 2018"
   },
   {
-    "objectID": "teaching.html#undergraduate-courses",
-    "href": "teaching.html#undergraduate-courses",
-    "title": "Teaching",
-    "section": "Undergraduate Courses",
-    "text": "Undergraduate Courses\n\nLeading Teams\nCourse Assistant, Fall 2018 - Spring 2020\nJohns Hopkins University\nInstructor: Dr. William Smedick\nCourse description: This course will allow students to develop the analytical skills needed to effectively lead and work in teams. Students will learn tools and techniques for problem solving, decision-making, conflict resolution, task management, communications, and goal alignment in team settings. They will also learn how to measure team dynamics and performance, and assess methods for building and sustaining high-performance teams. Students will also explore their own leadership, personality and cognitive styles and learn how these may affect their performance in a team. The course will focus on team-based experiential projects and exercises as well as provide opportunities to individually reflect and write about the concepts explored and skills gained throughout the course."
+    "objectID": "experience.html#leadership-experience",
+    "href": "experience.html#leadership-experience",
+    "title": "Experience",
+    "section": "Leadership Experience",
+    "text": "Leadership Experience\n\nCo-President, Biostatistics Student Organization, Johns Hopkins University, 2022 – present\nBiostatistics Department Representative, Mental Health Graduate Network, Johns Hopkins University, 2021 – present\nMentoring Committee and Curriculum Committee Member, Biostatistics Student Organization, Johns Hopkins University, 2020 – present\nCouncil of Emerging and New Statisticians (CENS) Member, ENAR of International Biometrics Society, 2023 - present\nTeam Captain, Varsity Women’s Soccer, Johns Hopkins University, 2019\nAssistant New Member Director, Phi Mu Gamma Tau Chapter, Johns Hopkins University, 2019\nCaptains Cohort Member, Blue Jays LEAD, Johns Hopkins University, Spring 2019 – 2020"
   }
 ]
