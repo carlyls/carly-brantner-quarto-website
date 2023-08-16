@@ -21,7 +21,7 @@ I have experience as a teaching assistant for graduate and undergraduate student
 **Johns Hopkins Bloomberg School of Public Health*\
 *Instructor: Dr. Elizabeth Stuart
 
-*Course description:* Presents an overview of methods for estimating causal effects: how to answer the question of \"What is the effect of A on B?\" Includes discussion of randomized designs, but with more emphasis on alternative designs for when randomization is infeasible: matching methods, propensity scores, regression discontinuity, and instrumental variables. Motivates methods by examples from the health sciences, particularly mental health and community or school-level interventions.
+*Course description:* Presents an overview of methods for estimating causal effects: how to answer the question of "What is the effect of A on B?" Includes discussion of randomized designs, but with more emphasis on alternative designs for when randomization is infeasible: matching methods, propensity scores, regression discontinuity, and instrumental variables. Motivates methods by examples from the health sciences, particularly mental health and community or school-level interventions.
 
 ## Undergraduate Courses
 
